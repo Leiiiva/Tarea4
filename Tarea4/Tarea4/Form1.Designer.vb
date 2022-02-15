@@ -32,10 +32,10 @@ Partial Class Form1
         '
         'btn_calcular
         '
-        Me.btn_calcular.Font = New System.Drawing.Font("Acumin Pro", 9.749999!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point)
-        Me.btn_calcular.Location = New System.Drawing.Point(180, 67)
+        Me.btn_calcular.Font = New System.Drawing.Font("Acumin Pro", 12.0!, CType((System.Drawing.FontStyle.Bold Or System.Drawing.FontStyle.Italic), System.Drawing.FontStyle), System.Drawing.GraphicsUnit.Point)
+        Me.btn_calcular.Location = New System.Drawing.Point(181, 66)
         Me.btn_calcular.Name = "btn_calcular"
-        Me.btn_calcular.Size = New System.Drawing.Size(75, 32)
+        Me.btn_calcular.Size = New System.Drawing.Size(84, 32)
         Me.btn_calcular.TabIndex = 0
         Me.btn_calcular.Text = "Calcular"
         Me.btn_calcular.UseVisualStyleBackColor = True
@@ -54,7 +54,7 @@ Partial Class Form1
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Acumin Pro", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label2.Location = New System.Drawing.Point(53, 120)
+        Me.Label2.Location = New System.Drawing.Point(53, 121)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(117, 21)
         Me.Label2.TabIndex = 2
@@ -62,10 +62,10 @@ Partial Class Form1
         '
         'txt_num
         '
-        Me.txt_num.Font = New System.Drawing.Font("Acumin Pro", 9.749999!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.txt_num.Location = New System.Drawing.Point(53, 72)
+        Me.txt_num.Font = New System.Drawing.Font("Acumin Pro", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
+        Me.txt_num.Location = New System.Drawing.Point(53, 69)
         Me.txt_num.Name = "txt_num"
-        Me.txt_num.Size = New System.Drawing.Size(100, 23)
+        Me.txt_num.Size = New System.Drawing.Size(100, 27)
         Me.txt_num.TabIndex = 3
         Me.txt_num.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
@@ -74,7 +74,7 @@ Partial Class Form1
         Me.lbl_fact.AutoSize = True
         Me.lbl_fact.Font = New System.Drawing.Font("Acumin Pro", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.lbl_fact.ForeColor = System.Drawing.Color.Navy
-        Me.lbl_fact.Location = New System.Drawing.Point(190, 117)
+        Me.lbl_fact.Location = New System.Drawing.Point(208, 117)
         Me.lbl_fact.Name = "lbl_fact"
         Me.lbl_fact.Size = New System.Drawing.Size(33, 25)
         Me.lbl_fact.TabIndex = 4
