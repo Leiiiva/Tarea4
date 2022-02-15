@@ -1,0 +1,17 @@
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.exe
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.deps.json
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.runtimeconfig.json
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.dll
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\bin\Debug\net6.0-windows\ref\Tarea4.dll
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\bin\Debug\net6.0-windows\Tarea4.pdb
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.vbproj.AssemblyReference.cache
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.Form1.resources
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.vbproj.GenerateResource.cache
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.AssemblyInfoInputs.cache
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.AssemblyInfo.vb
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.vbproj.CoreCompileInputs.cache
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.dll
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\ref\Tarea4.dll
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.pdb
+D:\Documents\GitHub\Tarea4\Tarea4\Tarea4\obj\Debug\net6.0-windows\Tarea4.genruntimeconfig.cache
